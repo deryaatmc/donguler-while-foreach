@@ -12,3 +12,4 @@ C:\Users\DERYA.ATMACA\Desktop\Pratikler\donguler-while-foreach\obj\Debug\net9.0\
 C:\Users\DERYA.ATMACA\Desktop\Pratikler\donguler-while-foreach\obj\Debug\net9.0\donguler-while-foreach.pdb
 C:\Users\DERYA.ATMACA\Desktop\Pratikler\donguler-while-foreach\obj\Debug\net9.0\donguler-while-foreach.genruntimeconfig.cache
 C:\Users\DERYA.ATMACA\Desktop\Pratikler\donguler-while-foreach\obj\Debug\net9.0\ref\donguler-while-foreach.dll
+C:\Users\DERYA.ATMACA\Desktop\Pratikler\donguler-while-foreach\obj\Debug\net9.0\donguler-while-foreach.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("donguler-while-foreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21c5b4c0ccf7cd7d19db707af5b8160497df1865")]
 [assembly: System.Reflection.AssemblyProductAttribute("donguler-while-foreach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("donguler-while-foreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
